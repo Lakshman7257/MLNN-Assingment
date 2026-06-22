@@ -6,13 +6,13 @@ How does the bottleneck control what the autoencoder remembers?
 Unlike a classification model, the autoencoder does not predict labels such as shirt, shoe or bag. Instead, it learns to reproduce its own input. The input image is also the target output.
 Learning Objectives
 By following this tutorial, the reader will learn how to:
-Understand the basic structure of an autoencoder.
-Explain the role of the encoder, bottleneck and decoder.
-Prepare Fashion-MNIST images for reconstruction learning.
-Train a dense autoencoder using TensorFlow and Keras.
-Interpret reconstruction loss during training.
-Compare original and reconstructed images.
-Analyse how different bottleneck sizes affect reconstruction quality.
+Understand the basic structure of an autoencoder.
+Explain the role of the encoder, bottleneck and decoder.
+Prepare Fashion-MNIST images for reconstruction learning.
+Train a dense autoencoder using TensorFlow and Keras.
+Interpret reconstruction loss during training.
+Compare original and reconstructed images.
+Analyse how different bottleneck sizes affect reconstruction quality.
 Tutorial Concept
 An autoencoder has three main parts:
 1.Encoder
