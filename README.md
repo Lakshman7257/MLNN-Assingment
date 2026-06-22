@@ -31,7 +31,7 @@ autoencoder-reconstruction-tutorial/
 ├── README.md
 ├── LICENSE
 ├── lakshman_naik_code.ipynb
-├── lakshman_naik_banavathu.pdf
+├── lakshman_naik_banavathu_24155315.pdf
 │
 └── figures/
     ├── figure_1_sample_images.png
